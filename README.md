@@ -1,5 +1,6 @@
-# EX-02 Fitting Poisson  distribution
+
 ## DATE: 15.09.23
+# EX-02 Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
